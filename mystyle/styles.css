@@ -212,7 +212,7 @@ hr{
 	
 .zoom {
   padding: 50px;
-  background-color: green;
+/*  background-color: green;*/
   transition: transform .2s; /* Animation */
   width: 200px;
   height: 100px;
