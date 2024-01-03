@@ -94,7 +94,7 @@ article
 aside
 	{
 	float: right;
-	width: 30%;
+	width: 40%;
 	height:400px;
 	margin-right: 0px;
 	background-color:white; 
@@ -108,7 +108,7 @@ aside
 footer
 	{
 	float:right;
-	background-color:#D2CAEC ;
+	background-color:white ;
 	height:200px;
 	width: 100%;
   	margin-left: 30%;
