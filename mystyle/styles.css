@@ -57,11 +57,12 @@ nav
 #nav_photo
 	{
 	width: 100%;
-	height:200px;
+	height:auto;
   	margin-left: 0%;
 	margin-right: 1%;
 	/*border: 5px solid red;*/
 	background-color:white;
+
 	/*	background-image:url("./images/picture_1.jpg");*/
 		
 		
@@ -77,7 +78,7 @@ nav
 	width: 70%;
 	margin-right: 0%;
   	margin-left: 30%;
-	margin-top:-450px;
+	margin-top:-400px;
 	}
 	
 
@@ -223,8 +224,8 @@ hr{
 
 
 .responsive_imageprofil{
-  width: 60%;
-	height:200px;
+  width: 65%;
+	height:150px;
 }
 
 .responsive {
